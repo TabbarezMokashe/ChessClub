@@ -1,0 +1,6 @@
+com\chessclub\Player.class
+com\chessclub\MatchService.class
+com\chessclub\PlayerRepository.class
+com\chessclub\PlayerController.class
+com\chessclub\ChessClubApplication.class
+com\chessclub\PlayerService.class
